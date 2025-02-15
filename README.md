@@ -1,4 +1,4 @@
-# bomberman
+# Bomberman
 
 This 42 School project, originally named 'so_long', is a small 2D Bomberman-style game created using **minilibx**, a graphics library used at 42. The game features textures, sprites, and tile-based design.
 
